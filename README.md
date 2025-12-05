@@ -75,6 +75,8 @@ The end-of-year increase suggests cumulative operational stress.
 Reporting is quick (43 minutes), but overall resolution is slow and varies significantly by department. 
 Over 945 reports remain incomplete, pointing to gaps in documentation and follow-up, especially during high-demand shifts.
 
+## DASHBOARD
+https://github.com/hanifasalihu/Workplace-Safety-and-Incident-Analysis/blob/main/Screenshot%202025-12-05%20130458.png
 
 ## Recommendations
 1.	Strengthen High-Risk Departments: Improve safety checks, maintenance routines, and training in Maintenance and Production.
